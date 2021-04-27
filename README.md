@@ -13,7 +13,6 @@
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/hritik5102)](https://github.com/Vicenteefenequis) 
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/hritik5102)](https://github.com/Vicenteefenequis) 
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/hritik5102)](https://github.com/Vicenteefenequis) 
-[![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/hritik5102)](https://github.com/Vicenteefenequis) 
 [![Redis](https://img.shields.io/badge/-Redis-black?style=flat&logo=redis&link=https://github.com/hritik5102)](https://github.com/Vicenteefenequis) 
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/hritik5102)](https://github.com/Vicenteefenequis)
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/hritik5102)](https://github.com/Vicenteefenequis) 
@@ -21,8 +20,8 @@
 [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab&link=https://github.com/hritik5102)](https://github.com/Vicenteefenequis) 
 
 
-### 🔭 2020 Goal
-Learn and Deepen My Knowledge in React, React Native and C# with .NET
+### 🔭 2021 Goal
+Learn and Deepen My Knowledge in React, React Native C# .NET and Android Kotlin
 
 ### ☕ Get In Touch
 - [Instagram](https://www.instagram.com/doctype.tech/)
